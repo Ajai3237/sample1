@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #f2f4f7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.git {
+    background-color: #f2f4f7;
+    height: 200px;
+    padding-left: 100px;
+}
+
+#git-logo {
+    margin-left: 40%;
+    margin-top: 80px;
+}
+
+#git-sign {
+    margin-left: 38%;
+    font-size: 20px;
+    letter-spacing: -0.5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.middle {
+    height: 222px;
+    width: 270px;
+    margin-left: 37.4%;
+    border: 2px solid #f2f4f7;
+    box-shadow: 5px 5px 6px -7px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.us-input {
+    width: 225px;
+    height: 26px;
+    border-radius: 4.4px;
+    margin-left: 22px;
+    margin-top: 15px;
+    display: block;
+    border-color: #eeeff0;
+}
+
+.us-id {
+    font-size: 14px;
+    padding-left: 23px;
+    font-weight: bold;
+
+}
+
+.ps-input {
+    font-size: 14px;
+    padding-left: 2px;
+    font-weight: bold;
+
+}
+
+.div-psinput {
+    margin-top: 10px;
+}
+
+.ps-input {
+    margin-left: 22px;
+    margin-top: 10px;
+    border-color: #eeeff0;
+    width: 225px;
+    height: 26px;
+    border-radius: 4.4px;
+}
+
+.FGP {
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 45px;
+    color: #1d69cb;
+}
+
+.bt {
+    background-color: #238636;
+    border: none;
+    border-radius: 4.4px;
+    margin-left: 22px;
+    margin-top: 10px;
+    width: 233px;
+    height: 33px;
+    margin-top: 20px;
+}
+
+.bt:hover {
+    background-color: #37994b;
+}
+
+.footer {
+    height: 70px;
+    width: 270px;
+    margin-left: 37.4%;
+    border: 2px solid #f2f4f7;
+    box-shadow: 5px 5px 6px -7px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.footer {
+    margin-top: 15px;
+}
+
+span {
+    color: #1d69cb;
+    font-weight: bold;
+    padding-left: 48px;
+    padding-top: 40px;
+}
+
+.footer-sub {
+    margin-top: 15px;
+}
+
+.footer-sub2 {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 25px;
+
+}
+
+a {
+    text-decoration: none;
+
+}
+
+p {
+    font-size: 14px;
+    display: block;
+
+
+}
